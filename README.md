@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="ascii-profile.svg" alt="My GitHub profile" width="1012" />
+</div>
 
 <!--
 **HiroProt/HiroProt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
